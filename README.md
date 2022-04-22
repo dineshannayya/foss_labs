@@ -134,6 +134,19 @@ Go to each exp1 folder and run below command
 
 all the result will be available inside output directory
 
+# Openlane Test Scripts
+
+  To run full openlane scripts
+   
+```bash
+  cd openlane
+  make i2cm 
+  make sspim  
+  make uart  
+  make wb_host
+```
+all the result will be available inside */run directory
+
 # Tool Sets
 
 This VLSI lab uses Openlane tool sets.
