@@ -43,7 +43,7 @@ Sample test case for vlsi labs to all the aspect for RTL to GDS flows
 ```
 ## Step-2: Pull Openlane docker images
 ```bash
-    docker pull riscduino/openlane:mpw4
+    docker pull riscduino/openlane:mpw3
     docker pull riscduino/dv_setup:latest
 ```
 ## Step-3: To install gtkwave for wavefor viewing
